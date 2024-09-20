@@ -46,3 +46,7 @@ En lugar de modelar esto como colecciones dentro de una entidad (como sería tí
 **Cada entidad cumple con 3NF porque:**
 
 - No hay atributos que dependan de otros atributos no clave.
+
+### Ejercicio 2 ) ORM
+
+![enunciado1](https://github.com/user-attachments/assets/de3f481c-aad5-4c14-af68-b2939291e6b0)
