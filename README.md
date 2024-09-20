@@ -2,7 +2,8 @@
 
 ### Ejercicio 1 ) Modelado Final Tinderizr
 
-![](D:\Documentos\Practica_DDS\practica_persistencia_y_modelado_de_datos\modelado_persistencia.jpg)
+![modelado_persistencia](https://github.com/user-attachments/assets/66581743-1121-49b8-854a-f78e13088478)
+
 
 ### Justificaciones:
 
